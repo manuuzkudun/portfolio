@@ -770,6 +770,13 @@ FOOTER
 #footer p.social a.gplus {
   background-color: #c21f25;
 }
+
+#footer p.social a.linkedin {
+  background-color: #1883BB;
+}
+#footer p.social a.github {
+  background-color: #000;
+}
 #footer p.social a.instagram {
   background-color: #cd4378;
 }
